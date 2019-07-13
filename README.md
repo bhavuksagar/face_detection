@@ -1,2 +1,2 @@
 # face_detection
-code for face detection.It is simple detect the face and make a rectangle around ur face.
+code for face detection.It is simple face detection program which detect the face and make a rectangle around ur face.
